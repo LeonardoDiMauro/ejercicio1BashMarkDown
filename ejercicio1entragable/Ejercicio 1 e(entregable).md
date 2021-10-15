@@ -1,4 +1,4 @@
-
+![title](imagenes/logobash.png/100/100?style=centerme)
 
 # Ejercicio 1 e(entregable)
 Crea una carpeta para este ejercicio llamada ejercicio1 y dentro crear un archivo bash (ejecutable) llamado crearWeb.sh, este debe crear una nueva carpeta cuyo nombre se pasará como parámetro al ejecutar ese archivo. Si no se pasa un parámetro, el programa debe indicar error. Dentro de esa nueva carpeta se tiene que descargar automaticamente el siguiente repositorio github:
