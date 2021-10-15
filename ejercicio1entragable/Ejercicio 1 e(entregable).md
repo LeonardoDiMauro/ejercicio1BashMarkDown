@@ -93,6 +93,10 @@ Resultado:
 
 ![title](imagenes/img1.jpg)
 
+![title](imagenes/img2.jpg)
+
+![title](imagenes/img3.jpg)
+
 
 ### Explicación del codigo:
 ```
