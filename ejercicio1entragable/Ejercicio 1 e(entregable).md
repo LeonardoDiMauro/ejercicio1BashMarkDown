@@ -1,4 +1,4 @@
-![title](imagenes/img1.jpg)
+
 
 # Ejercicio 1 e(entregable)
 Crea una carpeta para este ejercicio llamada ejercicio1 y dentro crear un archivo bash (ejecutable) llamado crearWeb.sh, este debe crear una nueva carpeta cuyo nombre se pasará como parámetro al ejecutar ese archivo. Si no se pasa un parámetro, el programa debe indicar error. Dentro de esa nueva carpeta se tiene que descargar automaticamente el siguiente repositorio github:
@@ -89,6 +89,10 @@ drwx------ 3 leo leo 4096 oct 13 16:38 ..
 drwxr-xr-x 4 leo leo 4096 dic 29  2014 Skeleton-2.0.4
 -rw-rw-r-- 1 leo leo 8308 may 21  2017 Skeleton-2.0.4.zip
 ```
+Resultado:
+
+![title](imagenes/img1.jpg)
+
 
 ### Explicación del codigo:
 ```
